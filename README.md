@@ -1,22 +1,22 @@
-# KCDownloadProgressButton
+# KCProgressButton
 
 A download button with progress in masked text color.
 
 # Preview
 
-![]()
+![](https://github.com/songkuixi/KCProgressButton/blob/master/Preview.gif)
 
 # Usage
 
-Clone this repo and drag `KCDownloadProgressButton.swift` into your project.
+Clone this repo and drag `KCProgressButton.swift` into your project.
 
 ## Code
 
-__The type of this button MUST BE Custom__
+__The type of this button MUST BE Custom.__
 
 ```
-/// 1. Initialize a button and set other properties
-let kcButton = KCDownloadProgressButton(type: .custom)
+/// Initialize a button and set other properties
+let kcButton = KCProgressButton(type: .custom)
 kcButton.frame = CGRect(x: 30, y: 30, width: 100, height: 30)
 kcButton.backgroundColor = .red
 
@@ -38,7 +38,7 @@ self.view.addSubview(kcButton)
 ```
 ## StoryBoard / xib
 
-1. Drag a `UIButton` into your view, and set its class to `KCDownloadProgressButton`, and set its type to `Custom`.
+1. Drag a `UIButton` into your view, and set its class to `KCProgressButton`, and set its type to `Custom`.
 2. Set other properties like above.
 
 # TODO

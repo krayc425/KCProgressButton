@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  KCDownloadProgressButton
+//  KCProgressButton
 //
 //  Created by 宋 奎熹 on 2017/9/9.
 //  Copyright © 2017年 宋 奎熹. All rights reserved.

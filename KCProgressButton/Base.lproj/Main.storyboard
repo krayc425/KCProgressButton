@@ -23,8 +23,8 @@
                             <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="iXC-rg-gHM">
                                 <rect key="frame" x="125.5" y="399" width="124" height="31"/>
                             </slider>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WYc-Om-eAX" customClass="KCDownloadProgressButton" customModule="KCDownloadProgressButton" customModuleProvider="target">
-                                <rect key="frame" x="128" y="318.5" width="120" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WYc-Om-eAX" customClass="KCProgressButton" customModule="KCProgressButton">
+                                <rect key="frame" x="127.5" y="318.5" width="120" height="30"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="120" id="VDW-CX-A7j"/>

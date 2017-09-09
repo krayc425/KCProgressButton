@@ -1,6 +1,6 @@
 //
-//  KCDownloadProgressButton.swift
-//  KCDownloadProgressButton
+//  KCProgressButton.swift
+//  KCProgressButton
 //
 //  Created by 宋 奎熹 on 2017/9/9.
 //  Copyright © 2017年 宋 奎熹. All rights reserved.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class KCDownloadProgressButton: UIButton {
+class KCProgressButton: UIButton {
     
     /// 下载完成时的 Title
     open var finishDownloadTitle: String = "下载完成"

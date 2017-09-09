@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		249F68FD1F63D31C00326F7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249F68FC1F63D31C00326F7D /* AppDelegate.swift */; };
-		249F68FF1F63D31D00326F7D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249F68FE1F63D31D00326F7D /* ViewController.swift */; };
-		249F69021F63D31D00326F7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 249F69001F63D31D00326F7D /* Main.storyboard */; };
-		249F69041F63D31D00326F7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249F69031F63D31D00326F7D /* Assets.xcassets */; };
-		249F69071F63D31D00326F7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 249F69051F63D31D00326F7D /* LaunchScreen.storyboard */; };
-		249F690F1F63D42100326F7D /* KCDownloadProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249F690E1F63D42100326F7D /* KCDownloadProgressButton.swift */; };
+		24D163DE1F63F7F1004DE5AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24D163DD1F63F7F1004DE5AD /* AppDelegate.swift */; };
+		24D163E01F63F7F1004DE5AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24D163DF1F63F7F1004DE5AD /* ViewController.swift */; };
+		24D163E31F63F7F1004DE5AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24D163E11F63F7F1004DE5AD /* Main.storyboard */; };
+		24D163E51F63F7F1004DE5AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24D163E41F63F7F1004DE5AD /* Assets.xcassets */; };
+		24D163E81F63F7F1004DE5AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24D163E61F63F7F1004DE5AD /* LaunchScreen.storyboard */; };
+		24D163F01F63F83D004DE5AD /* KCProgressButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24D163EF1F63F83A004DE5AD /* KCProgressButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		249F68F91F63D31C00326F7D /* KCDownloadProgressButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KCDownloadProgressButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		249F68FC1F63D31C00326F7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		249F68FE1F63D31D00326F7D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		249F69011F63D31D00326F7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		249F69031F63D31D00326F7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		249F69061F63D31D00326F7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		249F69081F63D31D00326F7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		249F690E1F63D42100326F7D /* KCDownloadProgressButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KCDownloadProgressButton.swift; sourceTree = "<group>"; };
+		24D163DA1F63F7F1004DE5AD /* KCProgressButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KCProgressButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		24D163DD1F63F7F1004DE5AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		24D163DF1F63F7F1004DE5AD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		24D163E21F63F7F1004DE5AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		24D163E41F63F7F1004DE5AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		24D163E71F63F7F1004DE5AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		24D163E91F63F7F1004DE5AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24D163EF1F63F83A004DE5AD /* KCProgressButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KCProgressButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		249F68F61F63D31C00326F7D /* Frameworks */ = {
+		24D163D71F63F7F1004DE5AD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		249F68F01F63D31C00326F7D = {
+		24D163D11F63F7F1004DE5AD = {
 			isa = PBXGroup;
 			children = (
-				249F68FB1F63D31C00326F7D /* KCDownloadProgressButton */,
-				249F68FA1F63D31C00326F7D /* Products */,
+				24D163DC1F63F7F1004DE5AD /* KCProgressButton */,
+				24D163DB1F63F7F1004DE5AD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		249F68FA1F63D31C00326F7D /* Products */ = {
+		24D163DB1F63F7F1004DE5AD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				249F68F91F63D31C00326F7D /* KCDownloadProgressButton.app */,
+				24D163DA1F63F7F1004DE5AD /* KCProgressButton.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		249F68FB1F63D31C00326F7D /* KCDownloadProgressButton */ = {
+		24D163DC1F63F7F1004DE5AD /* KCProgressButton */ = {
 			isa = PBXGroup;
 			children = (
-				249F68FC1F63D31C00326F7D /* AppDelegate.swift */,
-				249F68FE1F63D31D00326F7D /* ViewController.swift */,
-				249F690E1F63D42100326F7D /* KCDownloadProgressButton.swift */,
-				249F69001F63D31D00326F7D /* Main.storyboard */,
-				249F69031F63D31D00326F7D /* Assets.xcassets */,
-				249F69051F63D31D00326F7D /* LaunchScreen.storyboard */,
-				249F69081F63D31D00326F7D /* Info.plist */,
+				24D163DD1F63F7F1004DE5AD /* AppDelegate.swift */,
+				24D163DF1F63F7F1004DE5AD /* ViewController.swift */,
+				24D163EF1F63F83A004DE5AD /* KCProgressButton.swift */,
+				24D163E11F63F7F1004DE5AD /* Main.storyboard */,
+				24D163E41F63F7F1004DE5AD /* Assets.xcassets */,
+				24D163E61F63F7F1004DE5AD /* LaunchScreen.storyboard */,
+				24D163E91F63F7F1004DE5AD /* Info.plist */,
 			);
-			path = KCDownloadProgressButton;
+			path = KCProgressButton;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		249F68F81F63D31C00326F7D /* KCDownloadProgressButton */ = {
+		24D163D91F63F7F1004DE5AD /* KCProgressButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 249F690B1F63D31D00326F7D /* Build configuration list for PBXNativeTarget "KCDownloadProgressButton" */;
+			buildConfigurationList = 24D163EC1F63F7F1004DE5AD /* Build configuration list for PBXNativeTarget "KCProgressButton" */;
 			buildPhases = (
-				249F68F51F63D31C00326F7D /* Sources */,
-				249F68F61F63D31C00326F7D /* Frameworks */,
-				249F68F71F63D31C00326F7D /* Resources */,
+				24D163D61F63F7F1004DE5AD /* Sources */,
+				24D163D71F63F7F1004DE5AD /* Frameworks */,
+				24D163D81F63F7F1004DE5AD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = KCDownloadProgressButton;
-			productName = KCDownloadProgressButton;
-			productReference = 249F68F91F63D31C00326F7D /* KCDownloadProgressButton.app */;
+			name = KCProgressButton;
+			productName = KCProgressButton;
+			productReference = 24D163DA1F63F7F1004DE5AD /* KCProgressButton.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		249F68F11F63D31C00326F7D /* Project object */ = {
+		24D163D21F63F7F1004DE5AD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "宋 奎熹";
 				TargetAttributes = {
-					249F68F81F63D31C00326F7D = {
+					24D163D91F63F7F1004DE5AD = {
 						CreatedOnToolsVersion = 9.0;
 					};
 				};
 			};
-			buildConfigurationList = 249F68F41F63D31C00326F7D /* Build configuration list for PBXProject "KCDownloadProgressButton" */;
+			buildConfigurationList = 24D163D51F63F7F1004DE5AD /* Build configuration list for PBXProject "KCProgressButton" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 249F68F01F63D31C00326F7D;
-			productRefGroup = 249F68FA1F63D31C00326F7D /* Products */;
+			mainGroup = 24D163D11F63F7F1004DE5AD;
+			productRefGroup = 24D163DB1F63F7F1004DE5AD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				249F68F81F63D31C00326F7D /* KCDownloadProgressButton */,
+				24D163D91F63F7F1004DE5AD /* KCProgressButton */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		249F68F71F63D31C00326F7D /* Resources */ = {
+		24D163D81F63F7F1004DE5AD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				249F69071F63D31D00326F7D /* LaunchScreen.storyboard in Resources */,
-				249F69041F63D31D00326F7D /* Assets.xcassets in Resources */,
-				249F69021F63D31D00326F7D /* Main.storyboard in Resources */,
+				24D163E81F63F7F1004DE5AD /* LaunchScreen.storyboard in Resources */,
+				24D163E51F63F7F1004DE5AD /* Assets.xcassets in Resources */,
+				24D163E31F63F7F1004DE5AD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		249F68F51F63D31C00326F7D /* Sources */ = {
+		24D163D61F63F7F1004DE5AD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				249F690F1F63D42100326F7D /* KCDownloadProgressButton.swift in Sources */,
-				249F68FF1F63D31D00326F7D /* ViewController.swift in Sources */,
-				249F68FD1F63D31C00326F7D /* AppDelegate.swift in Sources */,
+				24D163E01F63F7F1004DE5AD /* ViewController.swift in Sources */,
+				24D163F01F63F83D004DE5AD /* KCProgressButton.swift in Sources */,
+				24D163DE1F63F7F1004DE5AD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		249F69001F63D31D00326F7D /* Main.storyboard */ = {
+		24D163E11F63F7F1004DE5AD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				249F69011F63D31D00326F7D /* Base */,
+				24D163E21F63F7F1004DE5AD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		249F69051F63D31D00326F7D /* LaunchScreen.storyboard */ = {
+		24D163E61F63F7F1004DE5AD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				249F69061F63D31D00326F7D /* Base */,
+				24D163E71F63F7F1004DE5AD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		249F69091F63D31D00326F7D /* Debug */ = {
+		24D163EA1F63F7F1004DE5AD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -221,7 +221,7 @@
 			};
 			name = Debug;
 		};
-		249F690A1F63D31D00326F7D /* Release */ = {
+		24D163EB1F63F7F1004DE5AD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -269,28 +269,28 @@
 			};
 			name = Release;
 		};
-		249F690C1F63D31D00326F7D /* Debug */ = {
+		24D163ED1F63F7F1004DE5AD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = VEBQ28K9EA;
-				INFOPLIST_FILE = KCDownloadProgressButton/Info.plist;
+				INFOPLIST_FILE = KCProgressButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.krayc.KCDownloadProgressButton;
+				PRODUCT_BUNDLE_IDENTIFIER = com.krayc.KCProgressButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		249F690D1F63D31D00326F7D /* Release */ = {
+		24D163EE1F63F7F1004DE5AD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = VEBQ28K9EA;
-				INFOPLIST_FILE = KCDownloadProgressButton/Info.plist;
+				INFOPLIST_FILE = KCProgressButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.krayc.KCDownloadProgressButton;
+				PRODUCT_BUNDLE_IDENTIFIER = com.krayc.KCProgressButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -300,24 +300,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		249F68F41F63D31C00326F7D /* Build configuration list for PBXProject "KCDownloadProgressButton" */ = {
+		24D163D51F63F7F1004DE5AD /* Build configuration list for PBXProject "KCProgressButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				249F69091F63D31D00326F7D /* Debug */,
-				249F690A1F63D31D00326F7D /* Release */,
+				24D163EA1F63F7F1004DE5AD /* Debug */,
+				24D163EB1F63F7F1004DE5AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		249F690B1F63D31D00326F7D /* Build configuration list for PBXNativeTarget "KCDownloadProgressButton" */ = {
+		24D163EC1F63F7F1004DE5AD /* Build configuration list for PBXNativeTarget "KCProgressButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				249F690C1F63D31D00326F7D /* Debug */,
-				249F690D1F63D31D00326F7D /* Release */,
+				24D163ED1F63F7F1004DE5AD /* Debug */,
+				24D163EE1F63F7F1004DE5AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 249F68F11F63D31C00326F7D /* Project object */;
+	rootObject = 24D163D21F63F7F1004DE5AD /* Project object */;
 }
